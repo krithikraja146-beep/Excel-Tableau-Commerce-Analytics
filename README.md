@@ -44,6 +44,24 @@ Build Advanced Dashboard (Tableau): Connected the cleaned dataset to build dynam
 
 <a href="https://github.com/krithikraja146-beep/Excel-Tableau-Commerce-Analytics/blob/main/E-Commerce%20Executive%20Sales%20Analytics%20(Tableau).twbx">View Dashboard</a>
 
+Project Process
+
+1. Data Cleaning (Excel)
+
+Removed excess rows, handled missing values, eliminated duplicates, and standardized data formats.
+
+2. RFM & Cohort Analysis
+
+Calculated Recency, Frequency, and Monetary scores in Excel to segment customers (e.g., Champions, At-Risk) and group them into monthly cohorts.
+
+3. Baseline Dashboard (Excel)
+
+Built summary Pivot Tables, basic charts, and interactive Slicers for quick filtering.
+
+4. Advanced Dashboard (Tableau)
+
+Connected the cleaned dataset to Tableau to create interactive executive views, regional heatmaps, and RFM cohort retention matrice
+
 
 
 

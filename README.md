@@ -36,9 +36,9 @@ Build Advanced Dashboard (Tableau): Connected the cleaned dataset to build dynam
 5. Order Volume & Fulfillment: What is the total volume of orders processed, and what is the return/cancellation rate?
 6. Top Performing Products: What are the top 10 best-selling products by total revenue and units sold?
 
-7.RFM Customer Segmentation: Who are our highest-value customers ("Champions") versus "At-Risk" buyers based on their Recency, Frequency, and Monetary scores?
+7. RFM Customer Segmentation: Who are our highest-value customers ("Champions") versus "At-Risk" buyers based on their Recency, Frequency, and Monetary scores?
 
-8.Cohort Retention & Lifetime Value: What percentage of customers from each monthly cohort return to make repeat purchases, and how does their spending evolve over time? 
+8. Cohort Retention & Lifetime Value: What percentage of customers from each monthly cohort return to make repeat purchases, and how does their spending evolve over time? 
 
 # View Interactive Dashboard 
 
@@ -48,19 +48,19 @@ Project Process
 
 1. Data Cleaning (Excel)
 
-Removed excess rows, handled missing values, eliminated duplicates, and standardized data formats.
+   Removed excess rows, handled missing values, eliminated duplicates, and standardized data formats.
 
 2. RFM & Cohort Analysis
 
-Calculated Recency, Frequency, and Monetary scores in Excel to segment customers (e.g., Champions, At-Risk) and group them into monthly cohorts.
+   Calculated Recency, Frequency, and Monetary scores in Excel to segment customers (e.g., Champions, At-Risk) and group them into monthly cohorts.
 
 3. Baseline Dashboard (Excel)
 
-Built summary Pivot Tables, basic charts, and interactive Slicers for quick filtering.
+   Built summary Pivot Tables, basic charts, and interactive Slicers for quick filtering.
 
 4. Advanced Dashboard (Tableau)
 
-Connected the cleaned dataset to Tableau to create interactive executive views, regional heatmaps, and RFM cohort retention matrice
+   Connected the cleaned dataset to Tableau to create interactive executive views, regional heatmaps, and RFM cohort retention matrice.
 
 
 

@@ -39,3 +39,15 @@ Build Advanced Dashboard (Tableau): Connected the cleaned dataset to build dynam
 7.RFM Customer Segmentation: Who are our highest-value customers ("Champions") versus "At-Risk" buyers based on their Recency, Frequency, and Monetary scores?
 
 8.Cohort Retention & Lifetime Value: What percentage of customers from each monthly cohort return to make repeat purchases, and how does their spending evolve over time? 
+
+# View Interactive Dashboard 
+
+<a href="https://github.com/krithikraja146-beep/Excel-Tableau-Commerce-Analytics/blob/main/E-Commerce%20Executive%20Sales%20Analytics%20(Tableau).twbx">View Dashboard</a>
+
+
+
+
+
+
+
+

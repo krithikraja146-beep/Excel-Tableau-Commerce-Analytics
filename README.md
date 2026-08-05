@@ -64,8 +64,7 @@ Project Process
 
    # Excel Dashboard
 
-   https://github.com/krithikraja146-beep/Excel-Tableau-Commerce-Analytics/blob/main/Screenshot%202026-08-05%20at%2010.43.04.png
-
+  
    
 
 

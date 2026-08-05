@@ -37,4 +37,5 @@ Build Advanced Dashboard (Tableau): Connected the cleaned dataset to build dynam
 6. Top Performing Products: What are the top 10 best-selling products by total revenue and units sold?
 
 7.RFM Customer Segmentation: Who are our highest-value customers ("Champions") versus "At-Risk" buyers based on their Recency, Frequency, and Monetary scores?
+
 8.Cohort Retention & Lifetime Value: What percentage of customers from each monthly cohort return to make repeat purchases, and how does their spending evolve over time? 

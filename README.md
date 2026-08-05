@@ -62,6 +62,11 @@ Project Process
 
    Connected the cleaned dataset to Tableau to create interactive executive views, regional heatmaps, and RFM cohort retention matrice.
 
+   # Excel Dashboard
+
+   ![Uploading Screenshot 2026-08-05 at 10.43.04.png…]()
+
+
 
 
 
